@@ -1,7 +1,12 @@
+I've been running this script on Heroku for 10 days without any app/account suspensions. Also, no one has told me about their app/account getting suspended from using this version of the script. 
+
 **Note: This method requires a GitHub account**
 
 1. Create a Heroku account and a new app
-2. Fork this repo (or clone it and re-push to a GitHub account under your name)
+2. Fork this repo (or clone it and re-push to a GitHub account under your name): 
+
+https://github.com/nathan78906/steam-salien-cheat
+
 3. Add the 2 following files to the repo
 - File Name "Procfile"
     - Contents: `worker: python saliens.py`
