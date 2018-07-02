@@ -21,11 +21,11 @@
 ![](https://i.imgur.com/XwHkm54.png)
 
 8. Go to the overview tab
-9. Turn on the worker under "Dyno Formation" (Click "Configure Dynos", then click the pen on the right hand side)
+9. Turn on the worker under `Dyno Formation` (Click `Configure Dynos`, then click the pen on the right hand side)
 
 ![](https://i.imgur.com/8VNuWnZ.png)
 
-10. To view logs click "More" then "View logs"
+10. To view logs click `More` then `View logs`
 
 ![](https://i.imgur.com/FzzEl2e.png)
 
