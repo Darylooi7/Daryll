@@ -12,25 +12,26 @@ https://github.com/nathan78906/steam-salien-cheat (**It's best to make the repo 
     - Contents: `worker: python saliens.py`
 - File Name "requirements.txt"
     - Contents: `requests`
-4. Go to the deploy tab (on the new app)
-5. In `Deployment Method` make sure to link your GitHub account with your Heroku account
+4. Input the token/steamid into `saliens.py` (Instructions on Repo's README)
+5. Go to the deploy tab (on the new app)
+6. In `Deployment Method` make sure to link your GitHub account with your Heroku account
 
 ![](https://i.imgur.com/a2o02W8.png)
 
-6. Connect to the repository holding all of the files (including the files created in step 2)
+7. Connect to the repository holding all of the files (including the files created in step 2)
 
 ![](https://i.imgur.com/AbUnIlO.png)
 
-7. Deploy the app to Heroku 
+8. Deploy the app to Heroku 
 
 ![](https://i.imgur.com/XwHkm54.png)
 
-8. Go to the overview tab
-9. Turn on the worker under `Dyno Formation` (Click `Configure Dynos`, then click the pen on the right hand side)
+9. Go to the overview tab
+10. Turn on the worker under `Dyno Formation` (Click `Configure Dynos`, then click the pen on the right hand side)
 
 ![](https://i.imgur.com/8VNuWnZ.png)
 
-10. To view logs click `More` then `View logs`
+11. To view logs click `More` then `View logs`
 
 ![](https://i.imgur.com/FzzEl2e.png)
 
