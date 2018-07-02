@@ -5,7 +5,7 @@ I've been running this script on Heroku for 10 days without any app/account susp
 1. Create a Heroku account and a new app
 2. Fork this repo (or clone it and re-push to a GitHub account under your name): 
 
-https://github.com/nathan78906/steam-salien-cheat
+https://github.com/nathan78906/steam-salien-cheat (**It's best to make the repo private as well**)
 
 3. Add the 2 following files to the repo
 - File Name "Procfile"
