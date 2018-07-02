@@ -1,12 +1,12 @@
 **Note: This method requires a GitHub account**
 
-1. Fork this repo (or clone it and re-push to a GitHub account under your name)
-2. Add the 2 following files to the repo
+1. Create a Heroku account and a new app
+2. Fork this repo (or clone it and re-push to a GitHub account under your name)
+3. Add the 2 following files to the repo
 - File Name "Procfile"
     - Contents: `worker: python saliens.py`
 - File Name "requirements.txt"
     - Contents: `requests`
-3. Create a Heroku account and a new app
 4. Go to the deploy tab (on the new app)
 5. In `Deployment Method` make sure to link your GitHub account with your Heroku account
 
